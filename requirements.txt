@@ -1,0 +1,15 @@
+certifi==2023.7.22
+distlib==0.3.7
+dj-database-url==2.1.0
+Django==4.2.4
+django-environ==0.11.2
+filelock==3.12.4
+gunicorn==21.2.0
+packaging==23.2
+Pillow==10.0.1
+pipenv==2023.9.8
+platformdirs==3.10.0
+psycopg2-binary==2.9.9
+sqlparse==0.4.4
+typing_extensions==4.8.0
+tzdata==2023.3
